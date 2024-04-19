@@ -4,9 +4,6 @@ import 'package:tagit/interface/pages/main_page.dart';
 void main() {
   runApp(const MyApp());
 }
-// hello
-//hi
-//there
 
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
